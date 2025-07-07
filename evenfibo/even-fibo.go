@@ -1,6 +1,6 @@
 package evenfibo
 
-//https://projecteuler.net/problem=2
+//2
 
 func EvenFibonacci(limit int) int {
 	if limit < 2 {

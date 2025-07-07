@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/popescuag/euler/even-fibo/evenfibo"
+	"github.com/popescuag/euler/evenfibo"
 )
 
 func main() {
